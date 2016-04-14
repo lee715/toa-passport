@@ -1,6 +1,6 @@
 {
   "name": "toa-passport",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Passport middleware for Toa",
   "keywords": [
     "toa",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "main": "./lib",
   "dependencies": {
-    "passport": "^0.3.0"
+    "passport": "^0.3.2"
   },
   "bugs": "https://github.com/lee715/toa-passport/issues",
   "repository": {
